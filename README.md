@@ -36,10 +36,8 @@ with smtplib.SMTP("smtp.gmail.com") as connection:
 
 ---
 import requests
-
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 STOCK_API_KEY = "H0BMOR4H4DXZYFD4"
-
 def nvda_price():
     stock_params = {
         "function": "TIME_SERIES_DAILY",
