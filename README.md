@@ -7,7 +7,7 @@ The aim of this project is to receive 3 stock prices for the last 3 days aumtoma
 
 
 #### Step 1
-To extract information from free stock price API from 
+To extract information from free stock price API from ```https://www.alphavantage.co/query```
 
 [main.py](https://github.com/sebsebsebsebtimes4/Python/blob/main/main.py)
 
