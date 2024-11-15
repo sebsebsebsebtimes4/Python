@@ -1,6 +1,6 @@
 # Python
 
-### Project_1
+###_Project_1
 
 ```
 import requests
@@ -84,7 +84,7 @@ with smtplib.SMTP("smtp.gmail.com") as connection:
                         )
 
 ```
-### Project_4
+###_Project_4
 
 ```
 import requests
