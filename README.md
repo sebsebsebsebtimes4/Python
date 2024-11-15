@@ -13,5 +13,10 @@ To extract information from free stock price API from ```https://www.alphavantag
 
 [stock_price.py](https://github.com/sebsebsebsebtimes4/Python/blob/main/stock_price.py)
 
+
+#### Step 2
+Use PythonAnywhere website to host these 2 scripts and set up daily refresh at 8am (CET)
 ![alt text](pyanywhere.png)
+
+#### Step 3
 
