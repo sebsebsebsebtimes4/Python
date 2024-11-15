@@ -2,7 +2,7 @@
 
 ### Project_1 
 
-[View the Python Script](https://github.com/sebsebsebsebtimes4/Python/blob/main/main.py)
+[main.py](https://github.com/sebsebsebsebtimes4/Python/blob/main/main.py)
 
 ```
 import requests
