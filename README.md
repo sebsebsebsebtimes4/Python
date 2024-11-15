@@ -30,7 +30,7 @@ with smtplib.SMTP("smtp.gmail.com") as connection:
                         msg= f"Subject: Daily_Stock_Closing_Price\n\n{content_1}\n\n{content_2}\n\n{content_3}"
                         )
 ```
-[main.py](https://github.com/sebsebsebsebtimes4/Python/blob/main/stock_price.py)
+[stock_price.py](https://github.com/sebsebsebsebtimes4/Python/blob/main/stock_price.py)
 
 ---
 import requests
