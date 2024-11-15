@@ -19,6 +19,6 @@ Use PythonAnywhere website to host these 2 scripts and set up daily refresh at 8
 ![alt text](pyanywhere.png)
 
 #### Step 3
-
-![received information](stkprice.png)
+Receive information every morning
+![alt text](stkprice.png)
 
